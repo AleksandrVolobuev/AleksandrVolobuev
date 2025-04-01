@@ -2,7 +2,7 @@
 <h3 align="center">Developer. Designer. Rider. Helper. #IBMer. #freelancer.</h3>
 
 # 💫 About Me:
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sagar-vaghela" alt="sagarvaghela" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AleksandrVolobuev" alt="sagarvaghela" /></p>
 
 <!-- - 🔭 I’m currently working at [IBM India Private Limited](https://www.ibm.com/in-en), Pune, India -->
 
